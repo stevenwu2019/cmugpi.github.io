@@ -7,39 +7,54 @@ order: 5
 # -- This is a test comment
 # -- yaml variables local to this file --
 staff:
+  - id: aluque
+    domain: andrew
+    name: Alvaro Luque
+  - id: avantikn
+    domain: andrew
+    name: Avantika Naik
+  - id: daphneh
+    domain: andrew
+    name: Daphne Han
+  - id: dsunkara
+    domain: andrew
+    name: Deepti Sunkara
+  - id: jdai2
+    domain: andrew
+    name: Jessica Dai
+  - id: jpyang
+    domain: andrew
+    name: Jules Yang
+  - id: ktummala
+    domain: andrew
+    name: Kavya Tummalapalli
+  - id: kbooker
+    domain: andrew
+    name: Kyle Booker
+  - id: ljyao
+    domain: andrew
+    name: Laura Yao
+  - id: lghuang
+    domain: andrew
+    name: Len Huang
+  - id: linmo
+    domain: andrew
+    name: Lin Mo
+  - id: maggieca
+    domain: andrew
+    name: Maggie Cai
+  - id: sarahc2
+    domain: andrew
+    name: Sarah Chen
+  - id: stevenwu
+    domain: andrew
+    name: Steven Wu
   - id: tcortina
     domain: cs
     name: Tom Cortina
   - id: vpeet
     domain: andrew
     name: Veronica Peet
-  - id: jiachen5
-    domain: andrew
-    name: Amy Liu
-  - id: jwang7
-    domain: andrew
-    name: Jeremy Wang
-  - id: jpyang
-    domain: andrew
-    name: Jules Yang 
-  - id: aryas
-    domain: andrew
-    name: Arya Shah
-  - id: dsunkara
-    domain: andrew
-    name: Deepti Sunkara
-  - id: yalsuhai
-    domain: andrew
-    name: Yosef Alsuhaibani
-  - id: ljyao
-    domain: andrew
-    name: Laura Yao
-  - id: kacoba
-    domain: andrew
-    name: Keiffer Acoba
-  - id: ktummala
-    domain: andrew
-    name: Kavya Tummalapalli
 ---
 
 # Staff
@@ -61,15 +76,6 @@ send to the whole course staff.
 
 </div>
 {% endfor %}
-</div>
-
-<div class="ui two column center aligned grid">
-<div class="column">
-<img class="ui image" alt="group_pic_1" width="100%" src="{{ site.baseurl }}/images/staff/group_pic_1.jpg">
-</div>
-<div class="column">
-<img class="ui image" alt="group_pic_2" width="100%" src="{{ site.baseurl }}/images/staff/group_pic_2.jpg">
-</div>
 </div>
 
 # Office Hours
@@ -99,4 +105,4 @@ feel free to open an issue or a pull request.
 [adam]: http://www.countablethoughts.com/
 [jake]: https://jez.io/
 [cmugpi]: https://github.com/cmugpi/cmugpi.github.io
-[ohtimes]: https://calendar.google.com/calendar/embed?src=c_9ggct2afcr7d1rmdkn0i9e811c%40group.calendar.google.com&ctz=America%2FNew_York
+[ohtimes]: https://tinyurl.com/f22-gpi-oh
