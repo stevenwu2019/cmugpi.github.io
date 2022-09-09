@@ -77,7 +77,7 @@ to install rbenv or virtualenvwrapper even though you already have those install
 accompanied by "$'\r': command not found" error, then consider [this solution][dos2unix].
 
 If workon is not recognized as a command, then you probably forgot to edit the
-bashrc file as specified in the [virtualenvwrapper installation instructions][venvwinstallshell].
+bashrc file as specified in the [virtualenvwrapper installation instructions][venvwinstallshell] (specifically the `export` keyword).
 My `~/.bashrc` has the following:
 
 ```
