@@ -1,7 +1,7 @@
 # Great Practical Ideas in CS Website
 
 This is a Jekyll/Octopress project that compiles to the website for GPI, a class
-at Carnegie Mellon University (15-131).
+at Carnegie Mellon University (07-131).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
