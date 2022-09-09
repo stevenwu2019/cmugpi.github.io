@@ -28,7 +28,7 @@ After you are done with the lab, feel free to get started on set ups for next le
 
 The lab can be found on Canvas:
 
-- [SmashLab](https://canvas.cmu.edu/courses/24860/files)
+- [SmashLab](https://canvas.cmu.edu/courses/30570/files)
 
 ## Slides
 

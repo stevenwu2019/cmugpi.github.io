@@ -34,21 +34,22 @@ the semester, but please don't spam us.
 
 | Date     | Slides             | Reading         | Lecture Topic               |
 | ----     | ------             | -------         | -------------               |
-| 9/2      | [slides][latex_S1] | [Week 1]        | Intro + [Latex][latex]      |
 | ASAP     | -                  | [Initial setup] | -                           |
-| 9/9      | [slides][term_S1]  | [Week 2]        | [Terminal usage][usage]     |
-| 9/16     | [slides][vim_S1]   | [Week 3]        | [Vim][vim] - Basics         |
-| 9/23     | [slides][vim_S2]   | [Week 4]        | [Vim][vim] - Advanced       |
-| 9/30     | [slides][git_S1]   | [Week 5]        | [Git][git] - Basics         |
-| 10/7     |   -                | [Week 6]        | Exam 1                      |
-| __10/14__|   -                | Week 7          | __Midsemester Break__       |
-| 10/21    | [slides][git_S2]   | [Week 8]        | [Git][git] - github         |
-| 10/28    | [slides][bash_S1]  | [Week 9]        | [Bash][bash] - Intro & Globs|
-| 11/4     | [slides][bash_S2]  | [Week 10]       | [Bash][bash] - Regex & Grep |
-| 11/11    |   -                | [Week 11]       | CMU Advice - Q&A            |
-| 11/18    | [slides][bash_S3]  | [Week 12]       | [Bash][bash] - Pipes        |
-| __11/26__|   -                | Week 13         | __Thanksgiving__            |
-| 12/2     |   -                | [Week 14]       | Exam 2                      |
+| 8/31     | [slides][latex_S1] | [Week 1]        | Intro + [Latex][latex]      |
+| 9/7      | [slides][term_S1]  | [Week 2]        | [Command line][usage]       |
+| 9/14     |                    | [Week 3]        | [Vim][vim] - Basics         |
+| 9/21     |                    | [Week 4]        | [Vim][vim] - Advanced       |
+| 9/28     |                    | [Week 5]        | [Git][git] - Basics         |
+| 10/5     |   -                | [Week 6]        | Exam 1                      |
+| 10/12    |                    | [Week 7]        | [Git][git] - Github         |
+| __10/19__|   -                | Week 8          | __Fall Break__              |
+| __10/26__|   -                | Week 9          | __Tartan Community Day__    |
+| 11/2     |                    | [Week 10]       | [Bash][bash] - Intro        |
+| 11/9     |   -                | [Week 11]       | CMU Advice - Q&A            |
+| 11/16    |                    | [Week 12]       | [Bash][bash] - Glob & Regex |
+| __11/23__|   -                | Week 13         | __Thanksgiving__            |
+| 11/30    |                    | [Week 14]       | [Bash][bash] - Pipes        |
+| 12/7     |   -                | [Week 15]       | Exam 2                      |
 {:.ui.striped.table}
 
 ## Extratations
@@ -63,26 +64,26 @@ We'll be posting the extratation schedule here.
 
 |Week   | Date          | Extratation Topic                     |
 |----   | ----          | -----                                 |
-|1      | 9/4           | No extratation, Extended OH instead   |
-|2      | 9/11          | [Summer Opportunities][summer]        |
-|3      | 9/18          | [VSCode][vscode]                      |
-|4      | 9/25          | [Interview prep][interview]           |
-|5      | 10/2          | [Exam 1 review](https://create.kahoot.it/details/242bb421-a27a-4679-8078-31f0e423bc10) |
-|6      | 10/9          | [Makefile][makefiles]                 |
-|7      | 10/16         | [Intro to Product Management (PM)][pm]|
-|8      | 10/23         | Crash Course w/ ScottyLabs            |
-|9      | 10/30         | [UML & OOD][umlood]                   |
-|10     | 11/6          | [Resume review][resumereview]         |
-|11     | 11/13         | WebDev Weekend w/ ScottyLabs          |
-|12     | 11/20         | Exam 2 review                         |
-|13     | __11/27__     | __Thanksgiving__                      |
-|14     | 12/4          | N/A                                   |
+|1      | 9/3           | No extratation, Extended OH instead   |
+|2      | 9/10          | Summer Opportunities                  |
+|3      | 9/17          | Intro to PM/Startups                  |
+|4      | 9/24          | Resume Review                         |
+|5      | 10/1          | Exam Review                           |
+|6      | 10/8          |?|
+|7      | 10/15         |?|
+|8      | __10/22__     | __Fall Break__                        |
+|9      | 10/29         |?|
+|10     | 11/5          |?|
+|11     | 11/12         |?|
+|12     | 11/19         |?|
+|13     | __11/26__     | __Thanksgiving__                      |
+|14     | 12/3          |?|
 {:.ui.striped.table}
 
 
 ## Office hours calendar
 <div class="">
-<iframe src="https://calendar.google.com/calendar/embed?src=c_9ggct2afcr7d1rmdkn0i9e811c%40group.calendar.google.com&ctz=America%2FNew_York" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_309sg4lv2qqpid8q6vrt1s0t5g%40group.calendar.google.com&ctz=America%2FNew_York" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 </div>
 {:.ui.dividing.header.no_toc}
 
@@ -139,6 +140,7 @@ are there as additional resources.
 [Week 12]: {{ "/topics/readings/week-12/" | prepend: site.baseurl }}
 [Week 13]: {{ "/topics/readings/week-13/" | prepend: site.baseurl }}
 [Week 14]: {{ "/topics/readings/week-14/" | prepend: site.baseurl }}
+[Week 15]: {{ "/topics/readings/week-14/" | prepend: site.baseurl }}
 
 <!-- Extratation pages/slides -->
 [latexresume]: {{ "/topics/extratations/latexresume/" | prepend: site.baseurl }}
