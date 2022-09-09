@@ -5,7 +5,7 @@ group: navigation
 order: 1
 ---
 
-# 07-131 -- Great Practical Ideas in CS -- F21
+# 07-131 -- Great Practical Ideas in CS -- F22
 {:.ui.dividing.header.no_toc}
 
 ## Overview
@@ -37,19 +37,19 @@ the semester, but please don't spam us.
 | ASAP     | -                  | [Initial setup] | -                           |
 | 8/31     | [slides][latex_S1] | [Week 1]        | Intro + [Latex][latex]      |
 | 9/7      | [slides][term_S1]  | [Week 2]        | [Command line][usage]       |
-| 9/14     |                    | [Week 3]        | [Vim][vim] - Basics         |
-| 9/21     |                    | [Week 4]        | [Vim][vim] - Advanced       |
-| 9/28     |                    | [Week 5]        | [Git][git] - Basics         |
-| 10/5     |   -                | [Week 6]        | Exam 1                      |
-| 10/12    |                    | [Week 7]        | [Git][git] - Github         |
+| 9/14     |                    | Week 3          | [Vim][vim] - Basics         |
+| 9/21     |                    | Week 4          | [Vim][vim] - Advanced       |
+| 9/28     |                    | Week 5          | [Git][git] - Basics         |
+| 10/5     |   -                | Week 6          | Exam 1                      |
+| 10/12    |                    | Week 7          | [Git][git] - Github         |
 | __10/19__|   -                | Week 8          | __Fall Break__              |
 | __10/26__|   -                | Week 9          | __Tartan Community Day__    |
-| 11/2     |                    | [Week 10]       | [Bash][bash] - Intro        |
-| 11/9     |   -                | [Week 11]       | CMU Advice - Q&A            |
-| 11/16    |                    | [Week 12]       | [Bash][bash] - Glob & Regex |
+| 11/2     |                    | Week 10         | [Bash][bash] - Intro        |
+| 11/9     |   -                | Week 11         | CMU Advice - Q&A            |
+| 11/16    |                    | Week 12         | [Bash][bash] - Glob & Regex |
 | __11/23__|   -                | Week 13         | __Thanksgiving__            |
-| 11/30    |                    | [Week 14]       | [Bash][bash] - Pipes        |
-| 12/7     |   -                | [Week 15]       | Exam 2                      |
+| 11/30    |                    | Week 14         | [Bash][bash] - Pipes        |
+| 12/7     |   -                | Week 15         | Exam 2                      |
 {:.ui.striped.table}
 
 ## Extratations
