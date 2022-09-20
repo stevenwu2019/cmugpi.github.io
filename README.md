@@ -469,7 +469,7 @@ scp -r _site/ andrew:~private/
 
 or your prefered command for scp-ing, to your prefered location. Then you can ssh in, and
 perform a `cp` to transfer the `_site/` folder to `/afs/cs/academic/class/07131-f18/www`.
-Be sure to rename it to `f21` afterwards.
+Be sure to rename it to `fXX` afterwards, where XX is the last 2 digits of the current year.
 
 While it's admittedly jank, this alternative is good to use if you don't have the direct
 permission to edit `/afs/` folders, or if you have version issues with Ruby.
