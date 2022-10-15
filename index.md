@@ -37,11 +37,11 @@ the semester, but please don't spam us.
 | ASAP     | -                  | [Initial setup] | -                           |
 | 8/31     | [slides][latex_S1] | [Week 1]        | Intro + [Latex][latex]      |
 | 9/7      | [slides][term_S1]  | [Week 2]        | [Command line][usage]       |
-| 9/14     |                    | Week 3          | [Vim][vim] - Basics         |
-| 9/21     |                    | Week 4          | [Vim][vim] - Advanced       |
-| 9/28     |                    | Week 5          | [Git][git] - Basics         |
+| 9/14     | [slides][vim_S1]   | Week 3          | [Vim][vim] - Basics         |
+| 9/21     | [slides][vim_S2]   | Week 4          | [Vim][vim] - Advanced       |
+| 9/28     | [slides][git_S1]   | Week 5          | [Git][git] - Basics         |
 | 10/5     |   -                | Week 6          | Exam 1                      |
-| 10/12    |                    | Week 7          | [Git][git] - Github         |
+| 10/12    | [slides][git_S2]   | Week 7          | [Git][git] - Github         |
 | __10/19__|   -                | Week 8          | __Fall Break__              |
 | __10/26__|   -                | Week 9          | __Tartan Community Day__    |
 | 11/2     |                    | Week 10         | [Bash][bash] - Intro        |
@@ -65,12 +65,12 @@ We'll be posting the extratation schedule here.
 |Week   | Date          | Extratation Topic                     |
 |----   | ----          | -----                                 |
 |1      | 9/3           | No extratation, Extended OH instead   |
-|2      | 9/10          | Summer Opportunities                  |
-|3      | 9/17          | Intro to PM/Startups                  |
-|4      | 9/24          | Resume Review                         |
-|5      | 10/1          | Exam Review                           |
-|6      | 10/8          |?|
-|7      | 10/15         |?|
+|2      | 9/10          | [Summer Opportunities][summer]        |
+|3      | 9/17          | [Intro to PM/Startups][pmstartups]    |
+|4      | 9/24          | [Resume Review][resumereview]         |
+|5      | 10/1          | [Exam Review][examreview]             |
+|6      | 10/8          | [Stress Management][stressmanagement] |
+|7      | __10/15__     | __Fall Break__                        |
 |8      | __10/22__     | __Fall Break__                        |
 |9      | 10/29         |?|
 |10     | 11/5          |?|
@@ -120,7 +120,7 @@ are there as additional resources.
 [vim_S1]: {{ "/topics/readings/week-3/week-3-vim.pdf" | prepend: site.baseurl }}
 [vim_S2]: {{ "/topics/readings/week-4/week-4-vim-2.pdf" | prepend: site.baseurl }}
 [git_S1]: {{ "/topics/readings/week-5/week-5-git-1.pdf" | prepend: site.baseurl }}
-[git_S2]:   {{ "/topics/readings/week-8/week-8-git-2.pdf" | prepend: site.baseurl }}
+[git_S2]:   {{ "/topics/readings/week-7/week-7-git-2.pdf" | prepend: site.baseurl }}
 [bash_S1]: {{ "/topics/readings/week-9/week-9-bash-script.pdf" | prepend: site.baseurl }}
 [bash_S2]: {{ "/topics/readings/week-10/week-10-regex-grep.pdf" | prepend: site.baseurl }}
 [bash_S3]: {{ "/topics/readings/week-12/week-12-pipes.pdf" | prepend: site.baseurl }}
@@ -143,17 +143,8 @@ are there as additional resources.
 [Week 15]: {{ "/topics/readings/week-14/" | prepend: site.baseurl }}
 
 <!-- Extratation pages/slides -->
-[latexresume]: {{ "/topics/extratations/latexresume/" | prepend: site.baseurl }}
-[tmux]: {{ "/topics/extratations/tmux/" | prepend: site.baseurl }}
-[cicd]: {{ "/topics/extratations/githubactions/" | prepend: site.baseurl }}
-[wdw]: {{ "/topics/extratations/wdw/" | prepend: site.baseurl }} 
-[giturl]: {{ "/topics/extratations/githuburlshortener/" | prepend: site.baseurl }}  
-[bitcoin]: {{ "/topics/extratations/bitcoin/" | prepend: site.baseurl }}  
-[dotfiles]: {{ "/topics/extratations/dotfiles/" | prepend: site.baseurl }}  
-[pm]: {{ "/topics/extratations/pm/" | prepend: site.baseurl }}   
-[cc]: {{ "/topics/extratations/crashcourse/" | prepend: site.baseurl }}   
-[summer]: {{ "/topics/extratations/summer/" | prepend: site.baseurl }}   
-[vscode]: {{ "/topics/extratations/vscode/" | prepend: site.baseurl }}   
-[interview]: {{ "/topics/extratations/interview/" | prepend: site.baseurl }}   
-[umlood]: {{ "/topics/extratations/umlood/" | prepend: site.baseurl }}   
-[resumereview]: {{ "/topics/extratations/resumereview/" | prepend: site.baseurl }}   
+[summer]: {{ "/topics/extratations/summer.pdf" | prepend: site.baseurl }}
+[pmstartups]: {{ "/topics/extratations/pmstartups.pdf" | prepend: site.baseurl }}
+[resumereview]: {{ "/topics/extratations/resumereview.pdf" | prepend: site.baseurl }}
+[examreview]: {{ "/topics/extratations/examreview.pdf" | prepend: site.baseurl }}
+[stressmanagement]: {{ "/topics/extratations/stressmanagement.pdf" | prepend: site.baseurl }}
